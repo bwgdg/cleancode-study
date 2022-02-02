@@ -9,7 +9,7 @@ Clean Code(클린 코드) 애자일 소프트웨어 장인 정신 by 로버트 C
 
 ## 목차
 
-1. 클린코드
+1. [클린코드](https://github.com/bwgdg/cleancode-study/blob/main/chapter01.md)
 
 
 ## Members
