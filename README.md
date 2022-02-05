@@ -26,5 +26,6 @@ Clean Code(클린 코드) 애자일 소프트웨어 장인 정신 by 로버트 C
   <tr>
     <td align="center"><a href="https://github.com/keunyop"><img src="https://avatars.githubusercontent.com/u/3814234?v=4?s=100" width="100px;" alt=""/><br />이근엽</a><br /><sub><a href="https://github.com/bwgdg/cleancode-study/blob/main/chapter01.md">1장</a></sub></td>
     <td align="center"><a href="https://github.com/zwooo96"><img src="https://avatars.githubusercontent.com/u/41753758?v=4?s=100" width="100px;" alt=""/><br />이지우</a><br /><sub></sub></td>
+    <td align="center"><a href="https://github.com/yunhyun717"><img src="https://avatars.githubusercontent.com/u/81668760?v=4?s=100" width="100px;" alt=""/><br />조윤현</a><br /><sub></sub></td>    
   </tr>
 </table>
